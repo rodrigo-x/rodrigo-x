@@ -2,4 +2,4 @@
 - 👀 I’m interested in great projects and nice things;
 - 🌱 I’m currently learning Rust;
 - 💞️ I’m looking to collaborate on projects with Python, ShellScript, JavaScript, Java, Ruby, PHP, GO, and others;
-- 📫 You can find me at instagram: @rodrigonery_ or my e-mail: rodrigonery@hotmail.com.br
+- 📫 You can find me at instagram: @rodrigonery_ , my e-mail: rodrigonery@hotmail.com.br , [https****://](https://rodrigo-x.github.io/)
